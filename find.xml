@@ -3,7 +3,6 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.css" />
     <mask>*.xml</mask>
     <mask>*.shtml</mask>
     <mask>*.shtm</mask>
